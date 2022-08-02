@@ -6,21 +6,14 @@ public class Calculator {
 	
 	public double addition(double a, double b) {
 		return a + b;
-<<<<<<< HEAD
 	}
-=======
 		}
->>>>>>> origin/main
 
 	public int subtraction(int a, int b) {
 		return a - b;
 	}
 
-<<<<<<< HEAD
 	public double subtraction(double a, double b) {
-		return a - b;
-=======
-	public int double subtraction(double a, double b) {
 		return a - b;
 	}
 
@@ -30,6 +23,5 @@ public class Calculator {
 
 	public double multiply(double a, double b) {
 		return a * b;
->>>>>>> origin/main
 	}
 }
